@@ -19,6 +19,3 @@ I work with structured data using SQL and Python, and I build backend systems wh
 
 ### 🎯 What I’m aiming for
 Entry-level **Data Analyst / Business Analyst / Backend roles** where I can work with real-world data and systems.
-
-📫 Email: pattanaikrounak182@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/rounak-pattanaik-39081b286
