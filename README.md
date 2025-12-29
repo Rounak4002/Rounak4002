@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Rounak Pattanaik
 
-<!--
-**Rounak4002/Rounak4002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech CSIT student  
+💻 Backend Developer | Data Analytics Enthusiast  
+📊 Python • SQL • FastAPI • Pandas  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Python, SQL, Java (Basics)
+- FastAPI, REST APIs
+- DBMS, RDBMS, ETL Basics
+- Pandas, NumPy, Excel
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- **PolicyFlow** – Digital Insurance Policy Lifecycle Engine
+- **ClaimEase** – Insurance Claim Workflow Platform
+- **AuthShield** – Role-Based Authentication System
+
+### 📈 Currently Learning
+- Advanced SQL
+- Data Visualization (Power BI / Tableau)
+- API Authentication (JWT)
+
+📫 Email: pattanaikrounak182@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/rounak-pattanaik-39081b286
